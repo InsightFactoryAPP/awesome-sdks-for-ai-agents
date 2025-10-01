@@ -187,6 +187,20 @@ SID is a YC S23 company that makes data infrastructure for AI easy by letting AI
 
 </details>
 
+## [Roundtable](https://github.com/coleam00/roundtable-mcp-server)
+
+Zero-configuration MCP server that provides AI agents with unified access to multiple tools and data sources through a single interface. Essential infrastructure for autonomous agent development and complex multi-tool workflows.
+
+<details>
+
+<!-- ### Description -->
+
+### Links
+- [GitHub](https://github.com/coleam00/roundtable-mcp-server)
+- [Documentation](https://github.com/coleam00/roundtable-mcp-server#readme)
+
+</details>
+
 ## [Steamship](https://www.steamship.com/)
 Steamship is a platform that allows to build, scale, and monitor AI agents with serverless cloud hosting, vector search, webhooks, callbacks, and more.
 <details>
