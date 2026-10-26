@@ -60,6 +60,11 @@ E2b is an operating system for AI agents, that is, a set of tools, APIs, and clo
 </details>
 
 
+## [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
+
+Local payment runtime and stdio MCP tools for x402 offers, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
+MIT licensed; direct transfers and EVM signing require foreground owner approval, while Solana exact x402 can use owner-admitted policy.
+
 ## [AgentOps](https://www.agentops.ai/)
 AgentOps create tools to make agents actually work, e.g., graphs, monitoring, and replay analytics.
 
